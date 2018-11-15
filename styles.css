@@ -1,6 +1,8 @@
 /* text center */
 #middleAgesList {text-align: center;}
-#first-letter:first-Letter { font-size: 200%; font-weight: bold;font-family: 'Cinzel Decorative', cursive;}
+#first-letter:first-Letter { font-size: 200%; 
+font-weight: bold;
+font-family: 'Cinzel Decorative', cursive;}
 
 #figure {img
   width: 100;
@@ -9,7 +11,8 @@
 }
 body { font-family: Arial, Verdana, sans-serif;}
 #subscribe { text-align: center;}
-h1 ,h2 {text-align: center; color: darkblue; font-family: 'MedievalSharp', cursive;;}
+h1 ,h2 {text-align: center; color: darkblue;
+	font-family: 'MedievalSharp', cursive;}
 ul {text-align: center;}
 .card-columns {
   @include media-breakpoint-only(lg) {
@@ -22,7 +25,10 @@ ul {text-align: center;}
 #famous { background-color: #cccccc; color:# ffffff; text-shadow:2px 2px 7px #111111;}
 .p lead: first-letter { font-Size: 200%;}
 .table { cursor: pointer;}
-blockquote { float: right; width: 275px: font-size:130%; font-style: italic; font-family: Georgia, Times; margin: 0px 0px 10px, 10px; padding: 10px; border-top: 1px solid black; border-bottom: 1px solid black;}
+blockquote { float: right; width: 275px: font-size:130%;
+	font-style: italic; font-family: Georgia, Times;
+	margin: 0px 0px 10px, 10px; padding: 10px; border-top: 1px solid black; 
+	border-bottom: 1px solid black;}
 a.button { height: 36px; background-image: url("https://lh3.googleusercontent.com/NFSMMJBZYEZu0GX1X_MNw1SQz7oYTq8q0nIaQWmXvQv51tiheAT7OY3__w8cPoqv6-ErAMHbO_Duc7ssQYe_lf5FvDDfijkjpOXW2u1FNw0py4APVSO_GUrQlQc81H5T6Nh3oEKXpA=w2400");
 text-indent: -9999px; display: inline-block;}
 
