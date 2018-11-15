@@ -1,10 +1,11 @@
 # HelloWorld22
 A project for class
 
+
 Markiea.github.io
 repository HelloWorld22
 
-My website is about a history museum in Louisana. I am hosting my website on Markiea.github.io, though github. My website has four simple Javascript components, alert box with new museum hours, a question about medievel history, and a slideshow which fades in and out. The slideshow allows the user to interact with the graphic by clicking each dot. In addition, I have included different CSS selectors regarding JavaScript componets, as well as additional designs for the site, and HTML.
+My website is about a history museum in Louisana. I am hosting my website on Markiea.github.io, though github. My website has four simple Javascript components. An alert box with new museum hours, a question about medievel history, a slideshow which fades in and out, and a quote machine. The slideshow allows the user to interact with the graphic by clicking each dot. In addition, I have included different CSS selectors regarding JavaScript components, as well as additional designs for the site, and HTML.
 
 The class(es) I created are:
 
